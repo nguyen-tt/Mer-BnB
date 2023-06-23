@@ -4,6 +4,8 @@ This repository is a 48-hour hackathon made during a course at Wild Code School.
 
 The project is based on React and uses two Flickr APIs.
 
+Link : https://merbnb.vercel.app/
+
 ## Setup & Use
 
 ### Project Initialization
